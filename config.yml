@@ -56,6 +56,6 @@ checker:
     # If proxies should be used, Will be proxyless if set to false (Use VPN if set to false or you will be ip banned)
     proxy: true
     # Proxy types: https | socks4 | socks5
-    proxy_type: 'https'
+    proxy_type: 'socks4'
     # Proxy file name
     proxy_file: 'proxies.txt'
